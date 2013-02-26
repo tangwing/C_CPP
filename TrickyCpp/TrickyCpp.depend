@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1355662590 source:d:\projects\trickycpp\classa.cpp
+
+1355912151 source:d:\projects\trickycpp\main.cpp
+	"ClassA.h"
+	"TemplateA.h"
+	"Test.h"
+	<iostream>
+
+1355665453 d:\projects\trickycpp\classa.h
+
+1355665378 d:\projects\trickycpp\templatea.h
+
+1355862597 source:d:\projects\trickycpp\test.cpp
+	"ClassA.h"
+	<iostream>
+
+1355910500 d:\projects\trickycpp\test.h
+
+1355874030 source:d:\projects\trickycpp\overload.cpp
+	<stdio.h>
+
+1355875148 source:d:\projects\trickycpp\constructor.cpp
+	<stdio.h>
+
+1355912151 source:d:\projects\trickycpp\testnewdelete.cpp
+
+1355662590 source:d:\projects\c_cpp\trickycpp\classa.cpp
+
+1355875148 source:d:\projects\c_cpp\trickycpp\constructor.cpp
+	<stdio.h>
+
+1355874030 source:d:\projects\c_cpp\trickycpp\overload.cpp
+	<stdio.h>
+
+1356347026 source:d:\projects\c_cpp\trickycpp\test.cpp
+	"ClassA.h"
+	<iostream>
+
+1356346971 d:\projects\c_cpp\trickycpp\classa.h
+
+1355912151 source:d:\projects\c_cpp\trickycpp\testnewdelete.cpp
+
+1361310765 source:d:\projects\c_cpp\trickycpp\casts.cpp
+	<string>
+

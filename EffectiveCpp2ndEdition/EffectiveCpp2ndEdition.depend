@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1361105047 source:d:\projects\c_cpp\effectivecpp2ndedition\items.cpp
+
+1361894256 source:d:\projects\c_cpp\effectivecpp2ndedition\main.cpp
+	"effectivecpp.h"
+
+1361105430 d:\projects\c_cpp\effectivecpp2ndedition\items.cpp
+
+1361105430 source:d:\projects\c_cpp\effectivecpp2ndedition\item1.cpp
+
+1361105430 source:d:\projects\c_cpp\effectivecpp2ndedition\item3.cpp
+
+1361105430 source:d:\projects\c_cpp\effectivecpp2ndedition\item4.cpp
+
+1361106869 source:d:\projects\c_cpp\effectivecpp2ndedition\item5.cpp
+
+1361106227 d:\projects\c_cpp\effectivecpp2ndedition\item2.cpp
+	<iostream>
+
+1361106227 source:d:\projects\c_cpp\effectivecpp2ndedition\item2.cpp
+	<iostream>
+
+1361303406 source:d:\projects\c_cpp\effectivecpp2ndedition\item7.cpp
+	"effectivecpp.h"
+
+1361815287 d:\projects\c_cpp\effectivecpp2ndedition\effectivecpp.h
+	<new>
+	<cstdlib>
+	<iostream>
+
+1361109204 d:\projects\c_cpp\effectivecpp2ndedition\item7.cpp
+	"effectivecpp.h"
+
+1361613653 source:d:\projects\c_cpp\effectivecpp2ndedition\item10.cpp
+	"effectivecpp.h"
+
+1361611400 source:d:\projects\c_cpp\effectivecpp2ndedition\item11.cpp
+
+1361894104 source:d:\projects\c_cpp\effectivecpp2ndedition\item29.cpp
+	"effectivecpp.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1359497297 source:d:\projects\stl\vector.cpp
+	"stl.h"
+
+1359497179 source:d:\projects\stl\main.cpp
+	<iostream>
+	"stl.h"
+
+1359497317 d:\projects\stl\stl.h
+	<iostream>
+	<vector>
+	<deque>
+	"common.cpp"
+	<algorithm>
+	<iterator>
+	<sstream>
+	<tuple>
+
+1359487010 d:\projects\stl\common.cpp
+	"stl.h"
+
+1359487010 source:d:\projects\stl\common.cpp
+	"stl.h"
+
+1359488663 source:d:\projects\stl\deque.cpp
+	"stl.h"
+
+1359499447 source:d:\projects\stl\algorithm.cpp
+	"stl.h"
+
+1359500041 source:d:\projects\stl\fonctor.cpp
+	"stl.h"
+
